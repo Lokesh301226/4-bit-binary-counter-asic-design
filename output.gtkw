@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Fri Nov 06 05:46:43 2026
+[*]
+[dumpfile] "C:\Users\Admin\OneDrive\Desktop\IC_CHIP_DESIGN\counter.vcd"
+[dumpfile_mtime] "Fri Nov 06 05:36:05 2026"
+[dumpfile_size] 1478
+[savefile] "C:\Users\Admin\OneDrive\Desktop\IC_CHIP_DESIGN\output.gtkw"
+[timestart] 0
+[size] 1920 957
+[pos] -141 -138
+*-15.208703 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 318
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 277
+@28
+tb_counter.clk
+@22
+tb_counter.count[3:0]
+@28
+tb_counter.rst
+[pattern_trace] 1
+[pattern_trace] 0

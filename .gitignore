@@ -1,0 +1,15 @@
+
+# Simulation executable
+counter_sim
+
+# Generated waveform data
+*.vcd
+
+# Temporary files
+*.log
+*.tmp
+
+# Windows files
+Thumbs.db
+.DS_Store
+
